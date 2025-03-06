@@ -2,7 +2,11 @@
 using namespace std;
 
 int main() {
+Conflict_branch_2
+    cout << "Name: Salman, Roll Number: 24-ST-071" << endl;
+
     cout << "Name: faizan, Roll Number: 24-ST-84" << endl;
+ main
     return 0;
 }
 int a = 10, b = 5;
