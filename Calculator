@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Name: Your Name, Roll Number: Your Roll Number" << endl;
+    cout << "Name: faizan, Roll Number: 24-ST-84" << endl;
     return 0;
 }
 int a = 10, b = 5;
