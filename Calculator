@@ -5,3 +5,9 @@ int main() {
     cout << "Name: Your Name, Roll Number: Your Roll Number" << endl;
     return 0;
 }
+int a = 10, b = 5;
+if (b != 0) {
+    cout << "Division: " << a / b << endl;
+} else {
+    cout << "Division by zero error!" << endl;
+}
